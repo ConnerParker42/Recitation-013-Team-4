@@ -6,8 +6,8 @@ Name:         |    Github:
 Evan Gattis   |    evga8663
 Joshua Lee    |    neojoshua
 Matthew Etter |    matthewetter
-<<<<<<< HEAD
 Conner Parker |    ConnerParker42
-=======
-Conner Parker |    ConnerParker42
->>>>>>> main
+
+If you change your mind
+I'm the first in line
+Honey, I'm still free
