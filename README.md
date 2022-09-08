@@ -1,6 +1,6 @@
 # Recitation-013-Team-4
 Project Team Members:
-Matthew Etter
+Matthew T. Etter
 Name:         |    Github:
 Evan Gattis   |    evga8663
 Joshua Lee    |    neojoshua
